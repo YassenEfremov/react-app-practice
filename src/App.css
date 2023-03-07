@@ -1,0 +1,12 @@
+.App {
+  padding: 0 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+#todo__columns {
+  display: flex;
+  gap: 5rem;
+}

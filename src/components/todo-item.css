@@ -1,0 +1,6 @@
+.todo__item {
+  display: flex;
+  gap: 0.5rem;
+  flex-basis: 10rem;
+  margin: 1rem 0; 
+}
